@@ -1,0 +1,1 @@
+# Mpox Genomic Surveillance Pipeline
