@@ -1,0 +1,34 @@
+nohup: ignoring input
+  1-20 of 300
+  21-40 of 300
+  41-60 of 300
+  61-80 of 300
+  81-100 of 300
+  101-120 of 300
+  121-140 of 300
+  141-160 of 300
+  161-180 of 300
+  181-200 of 300
+  201-220 of 300
+  221-240 of 300
+  241-260 of 300
+  261-280 of 300
+  281-300 of 300
+Done. Country distribution:
+country
+Uganda:Kampala                               118
+Democratic Republic of the Congo:Equateur     29
+Portugal                                      24
+Uganda:Wakiso                                 24
+Uganda                                        18
+Uganda:Nakasongola                            14
+Uganda:Kasese                                 12
+Uganda:Luweero                                 7
+Slovakia                                       5
+Ireland                                        4
+Uganda:Masaka                                  3
+Uganda:Mubende                                 3
+Uganda:Kabarole                                3
+India:Puducherry                               2
+Canada                                         2
+Name: count, dtype: int64
